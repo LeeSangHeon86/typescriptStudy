@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Chapter1() {
-  const value = '이상헌';
+  let value: string;
 
   function test1() {
     function test2() {
