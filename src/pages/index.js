@@ -1,3 +1,3 @@
-import Chapter1 from './chapter1/Chapter1';
+import Part1 from './chapter1/Part1';
 
-export { Chapter1 };
+export { Part1 };

@@ -1,10 +1,10 @@
 import React from 'react';
-import { Chapter1 } from './pages';
+import { Part1 } from './pages';
 
 function App() {
   return (
     <div>
-      <Chapter1 />
+      <Part1 />
     </div>
   );
 }
